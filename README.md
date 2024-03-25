@@ -6,7 +6,10 @@ Node.js slot machine game where you can bet on multiple lines and win prizes bas
 2. Clone this repository.
 3. Navigate to the project directory in your terminal.
 4. Run npm install to install dependencies.
-5. Run node slot-machine.js to start the game.
+5. Start the game.
+   ```
+   node slot.js
+   ```
 
 ## Features:
 - **Deposit:** Start the game by depositing an initial amount of money.
