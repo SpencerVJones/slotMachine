@@ -1,4 +1,9 @@
 # slotMachine
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/slotMachine)
+</div>
+
 Node.js slot machine game where you can bet on multiple lines and win prizes based on the combinations of symbols.
 
 ## Instructions to Run:
